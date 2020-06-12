@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uDWKMH94w/FN1x7Xovge39i7iF/17HbunWrPMBH4wW21oDKltUq7K1TNUw4NHdUpPbFYdN2EwSbDR9SSbZmUmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\George Tsoulos\\Desktop\\TestRepo\\TestRepo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\George Tsoulos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
